@@ -111,4 +111,4 @@ elif check_file_key == True:
 # ======================== [ HOME TOOL ] ========================
 
 
-exec(requests.get('https://raw.githubusercontent.com/hieutool/code/master/tool%20g%E1%BB%99p%20python/gop.py').text)
+exec(requests.get('https://raw.githubusercontent.com/Hieu-tool/tool/main/tool.py').text)
